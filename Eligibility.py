@@ -17,3 +17,5 @@ print eligibility(name,age)
 
 # Once the code runs, it will prompt you to put "name" , pass the required name within "" (Quotes), e.g: "Gaurav"
 # You can also try passing string in age to see what error you get.
+
+# CODED BY - GAURAV PADAWE
