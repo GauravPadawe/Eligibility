@@ -11,7 +11,7 @@ def eligibility(name,age):                             # Defining a procedure wh
 			else:                          # If Customer is under 18 then "Sorry"
 				print "Sorry"
 		except:                                # Except will come into picture if user passes age as a "String" and not "Number"
-			print "Note: Please insert your age in numbers"      # Print "Insert your age in name"
+			print "Note: Please insert your age in numbers"      # Print "Insert your age in numbers"
 			
 print eligibility(name,age)
 
